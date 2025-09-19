@@ -33,3 +33,22 @@ button {
 button:hover {
     background: #7056b3;
 }
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.content {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.change-log {
+    margin-top: 150px;
+    margin-bottom: 20px;
+}
