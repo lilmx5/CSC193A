@@ -1,0 +1,35 @@
+/* Ground Zero */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333
+    line-height 1.6;
+}
+
+header {
+    background: #222;
+    color: white;
+    padding: 20px;
+    text-align: center; 
+}
+
+button {
+    background: #707bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #7056b3;
+}
